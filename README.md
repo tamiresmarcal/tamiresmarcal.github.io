@@ -1,6 +1,7 @@
 # Advancing Knowledge for Tomorrow
 
 [Researcher at McGill Centre for Integrated Neuroscience](https://mcin.ca/ ) 
+
 [Fellow at Healthy Brains Healthy Lifes (HBHL)](https://www.mcgill.ca/hbhl/)
 
 Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration, and open science, I am passionate about building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at McGill University in the Integrated Program in Neuroscience at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA). I explore how the brain predicts and responds to real-world stimuli, combining predictive modeling, neuroimaging, and AI.
