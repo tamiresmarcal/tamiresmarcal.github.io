@@ -1,6 +1,6 @@
 # Working for a better future
 Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration, and open science, I am passionate about building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at McGill University in the Integrated Program in Neuroscience at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA). I explore how the brain predicts and responds to real-world stimuli, combining predictive modeling, neuroimaging, and AI.
-Fellow at Healthy Brains Healthy Lifes | McGill Centre for Integrated Neuroscience 
+[Fellow at Healthy Brains Healthy Lifes](https://www.mcgill.ca/hbhl/training/hbhl-trainee-committee) | [McGill Centre for Integrated Neuroscience](https://mcin.ca/about-mcin/mcin-team/ ) 
 ## Projects
 ###
 ###
@@ -90,7 +90,7 @@ Served as a judge at a hackathon in data science and Covid-19, evaluated and pro
 - Volunteer, Itacoatiara School, Amazon, Brazil                  		                                                                       2016
 Volunteered at a school for children from riverside families in the Amazon Rainforest, providing educational support and assistance to students. Designed and delivered lesson, provided individualized support to students through tutoring, mentoring, and assessment.
 
-## Talks and Press Coverage of Research
+## Talks and Press Coverage
 - Marcal, T. C. (2022). Tiktok to fine art - predictive brain and appreciation. [Talk at TEDx Blumenau](https://www.ted.com/talks/tamires_correa_de_tiktok_a_belas_artes_o_cerebro_preditivo_e_a_apreciacao)
 - Marcal, T. C. (2022). How we perceive the world, and what makes us like something. Talk at Hacktown, Santa Rita do Sapucai 
 “Get ready for a new world", [Neuroscience Interview at Chamber of Commerce Brazil-Canada](https://https://ccbc.org.br/en/publicacoes/artigos-ccbc-en/get-ready-for-a-new-world/) by Estela Cangerana. (2019, November 19).
