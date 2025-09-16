@@ -3,6 +3,8 @@ Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of exp
 
 [Researcher at McGill Centre for Integrated Neuroscience](https://mcin.ca/ ) | [Fellow at Healthy Brains Healthy Lifes (HBHL)](https://www.mcgill.ca/hbhl/)
 
+* * *
+
 ## Education
 - Ph.D. at the Integrated Program in Neuroscience, McGill University, Montreal      (Ongoing)		    
 _Research at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA), Advisor: Dr. Alan Evans_
@@ -14,6 +16,8 @@ _Thesis: Machine learning models for human cortical thinning: temporal, spatial 
 _Thesis: Machine learning models for time perception in rats in reinforcement learning tasks_                                                                                                                                                                                                                                                                      
 - B.S. in Science and Technology, UFABC, Sao Paulo                                                                     		      
 _Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of Their Intersection and Applications_
+
+* * *
 
 ## Work Experience
 #### Data Science Consultant, Carrefour                                                                                                  	      	    2023 - 2024  
@@ -37,6 +41,8 @@ _Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of T
 - Founded and led a student organization focused on disseminating neuroscience research to the general public.
 - Recruited and trained new members, and managed a team of 15 volunteers.
 - Created and maintained a catalog of Brazilian organizations working in the neurotechnology ecosystem.
+
+* * *
 
 ## Awards
 - NeuroSphere Award                                                                                                                                  2024 - Present,
@@ -66,6 +72,8 @@ _Awarded a scholarship for a program focused on integrating research, teaching, 
 - Researching From Day One Scholarship                                                                                                             2014 - 2015,
 _Awarded a scholarship in recognition of a student's potential for significant scientific contributions._
 
+* * *
+
 ## Leadership and Service
 - TOSI Open Science Trainee Committee	2025 - Present,
 _Helping foster McGill Open Science Community_
@@ -82,6 +90,8 @@ _Served as a judge at a hackathon in data science and Covid-19, evaluated and pr
 - Volunteer, Itacoatiara School, Amazon, Brazil                                                                                      2016,
 _Volunteered at a school for children from riverside families in the Amazon Rainforest, providing educational support and assistance to students. Designed and delivered lesson, provided individualized support to students through tutoring, mentoring, and assessment._
 
+* * *
+
 ## Talks and Press Coverage
 - Marcal, T. C. (2022). Tiktok to fine art - predictive brain and appreciation. [Talk at TEDx Blumenau](https://www.ted.com/talks/tamires_correa_de_tiktok_a_belas_artes_o_cerebro_preditivo_e_a_apreciacao)
 - Marcal, T. C. (2022). How we perceive the world, and what makes us like something. Talk at Hacktown, Santa Rita do Sapucai 
@@ -91,6 +101,8 @@ _Volunteered at a school for children from riverside families in the Amazon Rain
 - Marcal, T. C. (2019). Neuroscience, Futurism and Emerging Technology. Talk at Inovabra
 “Tech talk: Neuroscience technologies at service of the human species agenda", [Interview at Voicers](https://www.youtube.com/watch?v=_8n7Lx1i9x8&t=346s) by Ligia Zotini . (2019, March 25).
 - Marcal, T. C. (2018). Neuroscience technologies at service of the human species agenda. Talk at Hacktown, Santa Rita do Sapucai
+
+* * *
 
 ## Teaching Experience
 
@@ -106,6 +118,7 @@ _Teaching Assistant - Graduate Students - Encouraged participants to think criti
 - Friends of Tomorrow Course, Aerolito,                                                                                                                   
 _Teaching Assistant -  Non-academic community - Researched the intersection of neuroscience and futurism._
 
+* * *
 
 ## Conference Presentations and Publications
 - Marcal, T. C. , Toussaint, P.J., Evans A.C. (in submission). Characterization of Cognitive Structure Using Explainable Models and Multimodal Neuroimaging Maps. 
