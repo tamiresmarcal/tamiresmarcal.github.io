@@ -1,5 +1,5 @@
-# Computational Neuroscientists working for a better future
-I am a neuroscience researcher and data scientist with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration, and open science, I am passionate about building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at McGill University in the Integrated Program in Neuroscience at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA). I explore how the brain predicts and responds to real-world stimuli, combining predictive modeling, neuroimaging, and AI.
+# Working for a better future
+Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration, and open science, I am passionate about building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at McGill University in the Integrated Program in Neuroscience at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA). I explore how the brain predicts and responds to real-world stimuli, combining predictive modeling, neuroimaging, and AI.
 Fellow at Healthy Brains Healthy Lifes | McGill Centre for Integrated Neuroscience 
 ## Projects
 ###
@@ -32,12 +32,10 @@ Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of Th
 - Worked in a brain imaging lab focused on magnetic resonance and machine learning.
 - Conducted research on the factors that influence brain thickness across the lifespan, using machine learning techniques and temporal, spatial and functional variables.
 
-
 #### Research Assistant, Spike Timing Lab, UFABC                                                                                                    2018 - 2019     
 - Conducted research in a computational neuroscience lab focused on time perception.
 - Built machine learning models using an information theory approach to explain when an animal would learn a task.
-                                                                                                                                                                                                 
-                
+                                                                                                                                                                                                              
 #### Founder, Sapiens, UFABC                                                                                                                                      2017 - 2018  
 - Founded and led a student organization focused on disseminating neuroscience research to the general public.
 - Recruited and trained new members, and managed a team of 15 volunteers.
@@ -77,8 +75,8 @@ UFABC, Sao Paulo, Brazil
 Awarded a scholarship in recognition of a student's potential for significant scientific contributions. 
 
 ## Leadership and Service
-- Neurolingo Committee 	2024 - Present
-Making Neuroscience Accessible to the General Public in Montreal in English and French 
+- TOSI Open Science Trainee Committee	2025 - Present
+Helping foster McGill Open Science Community
 
 - HBHL Trainee Committee	2024 - Present
 Helping foster McGill Neuroscience Community 	
@@ -93,37 +91,32 @@ Served as a judge at a hackathon in data science and Covid-19, evaluated and pro
 Volunteered at a school for children from riverside families in the Amazon Rainforest, providing educational support and assistance to students. Designed and delivered lesson, provided individualized support to students through tutoring, mentoring, and assessment.
 
 ## Talks and Press Coverage of Research
-- Marcal, T. C. (2022). Tiktok to fine art - predictive brain and appreciation. Talk at TEDx Blumenau, Santa Catarina, Brazil. (https://www.ted.com/talks/tamires_correa_de_tiktok_a_belas_artes_o_cerebro_preditivo_e_a_apreciacao)
-- Marcal, T. C. (2022). How we perceive the world, and what makes us like something. Talk at Hacktown, Santa Rita do Sapucai, Minas Gerais, Brazil. 
-“Get ready for a new world", Neuroscience Interview at Chamber of Commerce Brazil-Canada. (https://https://ccbc.org.br/en/publicacoes/artigos-ccbc-en/get-ready-for-a-new-world/) by Estela Cangerana. (2019, November 19).
-- Marcal, T. C. (2019). Neuroscience and Technology. Talk at Chamber of Commerce Brazil-Canada, Sao Paulo, Brazil.
-- Marcal, T. C. (2019). How we perceive the world - A journey through the neuroscience of design. Talk at Hacktown, Santa Rita do Sapucai, Minas Gerais, Brazil. 
-- Marcal, T. C. (2019). Neuroscience, Futurism and Emerging Technology. Talk at Inovabra, Sao Paulo, Brazil. 
-“Tech talk: Neuroscience technologies at service of the human species agenda", Interview at Voicers. (https://www.youtube.com/watch?v=_8n7Lx1i9x8&t=346s) by Ligia Zotini . (2019, March 25).
-- Marcal, T. C. (2018). Neuroscience technologies at service of the human species agenda. Talk at Hacktown, Santa Rita do Sapucai, Minas Gerais, Brazil. 
+- Marcal, T. C. (2022). Tiktok to fine art - predictive brain and appreciation. [Talk at TEDx Blumenau](https://www.ted.com/talks/tamires_correa_de_tiktok_a_belas_artes_o_cerebro_preditivo_e_a_apreciacao)
+- Marcal, T. C. (2022). How we perceive the world, and what makes us like something. Talk at Hacktown, Santa Rita do Sapucai 
+“Get ready for a new world", [Neuroscience Interview at Chamber of Commerce Brazil-Canada](https://https://ccbc.org.br/en/publicacoes/artigos-ccbc-en/get-ready-for-a-new-world/) by Estela Cangerana. (2019, November 19).
+- Marcal, T. C. (2019). Neuroscience and Technology. Talk at Chamber of Commerce Brazil-Canada
+- Marcal, T. C. (2019). How we perceive the world - A journey through the neuroscience of design. Talk at Hacktown, Santa Rita do Sapucai
+- Marcal, T. C. (2019). Neuroscience, Futurism and Emerging Technology. Talk at Inovabra
+“Tech talk: Neuroscience technologies at service of the human species agenda", [Interview at Voicers](https://www.youtube.com/watch?v=_8n7Lx1i9x8&t=346s) by Ligia Zotini . (2019, March 25).
+- Marcal, T. C. (2018). Neuroscience technologies at service of the human species agenda. Talk at Hacktown, Santa Rita do Sapucai
 
 ## Teaching Experience
-- Neuroimage Workshop InBrain, USP                                                                                                                                2022
+- Neuroimage Workshop InBrain, USP                                                                                                                                
 Teaching Assistant - Graduate Students
 Organized a workshop on neuroimaging techniques, including fMRI and MRI, for a group of graduate students.
-Demonstrated how to analyze, model and interpret neuroimaging data.
-Facilitated discussions on the applications of neuroimaging in various fields, such as neuroscience, psychology, and medicine.
 
-- Neuroscience and Society Course, Poatek                                                                                                               2021 - 2022
+- Neuroscience and Society Course, Poatek                                                                                                              
 Teacher -  Non-academic community
 Designed and delivered engaging lessons addressing neuroscience research and technology's social and ethical implications.
-Utilized a variety of teaching methods, including lectures, discussions, and interactive activities, to make the material accessible and to engage a non-expert audience.
 
-- Research Skills Workshop, International Institute of Neurosciences Edmond and Lily Safra                                          2019
+- Research Skills Workshop, International Institute of Neurosciences Edmond and Lily Safra                                          
 Teaching Assistant - Graduate Students
 Encouraged participants to think critically and creatively about their research, and to consider the potential impact of their work on their field of study.
-Facilitated discussions on common challenges and pitfalls in research, and provided strategies for overcoming them.
 
-- Friends of Tomorrow Course, Aerolito                                                                                                                              2018
+- Friends of Tomorrow Course, Aerolito                                                                                                                              
 Teaching Assistant -  Non-academic community
 Researched the intersection of neuroscience and futurism.
-Developed engaging and interactive lesson materials, including presentations, demonstrations, and hands-on activities.
-Collaborated with other teaching assistants and instructors to create a dynamic and inclusive learning environment for students.
+
 
 ## Conference Presentations and Publications
 - Marcal, T. C. , Toussaint, P.J., Evans A.C. (in submission). Characterization of Cognitive Structure Using Explainable Models and Multimodal Neuroimaging Maps. 
@@ -135,5 +128,3 @@ Collaborated with other teaching assistants and instructors to create a dynamic 
 - Marcal, T. C. , Lima, L. (2018). Neurotechnologies, Scientific Dissemination and Entrepreneurship. Poster presented at V Symposium on Neuroengineering at International Institute of Neuroscience Edmond and Lily Safra. 
 - Marcal, T. C. (2017). Neuroscience beyond academic boundaries. Talk at Brazilian Meeting on Brain and Cognition Satellite, UFABC. 
 - Marcal, T.C., Lopes, V.C.(2015) Boolean Algebra and Mathematical Proof Methodology: An Exploration of Their Intersection and Applications. Poster presented at XII UFABC Scientific Initiation Symposium.
-
-##
