@@ -4,8 +4,6 @@ Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of exp
 
 [Researcher at McGill Centre for Integrated Neuroscience](https://mcin.ca/ ) | [Fellow at Healthy Brains Healthy Lifes (HBHL)](https://www.mcgill.ca/hbhl/)
 
-* * *
-
 ## Education
 - Ph.D. at the Integrated Program in Neuroscience, McGill University, Montreal      (Ongoing)		    
 _Research at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA), Advisor: Dr. Alan Evans_
