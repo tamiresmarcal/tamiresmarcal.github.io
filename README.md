@@ -3,7 +3,6 @@ Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of exp
 
 [Researcher at McGill Centre for Integrated Neuroscience](https://mcin.ca/ ) | [Fellow at Healthy Brains Healthy Lifes (HBHL)](https://www.mcgill.ca/hbhl/)
  
-* * *
 
 ## Education
 - Ph.D. at the Integrated Program in Neuroscience, McGill University, Montreal      (Ongoing)		    
@@ -13,7 +12,8 @@ _Research at the Montreal Neurological Institute (MNI) and Montreal Institute fo
 _Thesis: Machine learning models for human cortical thinning: temporal, spatial and functional variables_
 
 - B.S. in Neuroscience, UFABC, Sao Paulo                                                                                           	      
-_Thesis: Machine learning models for time perception in rats in reinforcement learning tasks_                                                                                                                                                                                                                                                                      
+_Thesis: Machine learning models for time perception in rats in reinforcement learning tasks_
+                                                                                                                                                                                                         
 - B.S. in Science and Technology, UFABC, Sao Paulo                                                                     		      
 _Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of Their Intersection and Applications_
 
