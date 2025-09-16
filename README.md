@@ -39,52 +39,62 @@ _Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of T
 - Created and maintained a catalog of Brazilian organizations working in the neurotechnology ecosystem.
 
 ## Awards
-- NeuroSphere Award                                                                                                                                           2024 - Present
+- NeuroSphere Award
+                                                                                                                                        2024 - Present
 _NeuroScience Innovation Accelerator, McGill, Canada_
 
-- Research Fellowship                                                                                                                                           2024 - Present
+- Research Fellowship
+                                                                                                                                      2024 - Present
 _Healthy Brain Healthy Lives, McGill, Canada_
 
-- McGill Grad Excellence Award                                                                                                                        2024 - Present
+- McGill Grad Excellence Award                                                                                                     2024 - Present
+  
 _Integrated Program in Neuroscience, McGill, Canada_
 
-- PhD Entrance Award                                                                                                                                                         2024 
+- PhD Entrance Award
+                                                                                                                                                     2024 
 _Integrated Program in Neuroscience, McGill, Canada_
 
-- Research Scholarship                                                                                                                                             2022 - 2023 
-_National Council for Scientific and Technological Development, Brazil_
-_Awarded a scholarship for outstanding research in neuroscience and machine learning at the University of Sao Paulo Medical School._ 
+- Research Scholarship                                                                                                                                             2022 - 2023
+  
+_National Council for Scientific and Technological Development, Brazil. Awarded a scholarship for outstanding research in neuroscience and machine learning at the University of Sao Paulo Medical School._ 
 
 - Scientific Excellence Team Award                                                                                                                                    2021
-_Experian PLC, Dublin, Ireland_
-_Multinational competitive award for research and development in-company. Awarded for an agricultural product using satellite imagery, resulting in significant cost savings and increased efficiency._
+  
+_Experian PLC, Dublin, Ireland. Multinational competitive award for research and development in-company. Awarded for an agricultural product using satellite imagery, resulting in significant cost savings and increased efficiency._
 
-- Master Entrance Award                                                                                                                                                    2021 
-_USP, Sao Paulo, Brazil_
+- Master Entrance Award                                                                                                                                                    2021
+  
 _Achieved 1st place in the Master’s Entry Examination at the University of São Paulo (USP), ranked among the top three most prestigious medical schools in Latin America_
 
 - Tutorial Education Program Scholarship                                                                                                            2015 - 2016
-_National Fund for the Development of Education, Brazil_
+  
 _Awarded a scholarship for a program focused on integrating research, teaching, and science dissemination._
 
 - Researching From Day One Scholarship                                                                                                             2014 - 2015
-_UFABC, Sao Paulo, Brazil_
+  
 _Awarded a scholarship in recognition of a student's potential for significant scientific contributions._
 
 ## Leadership and Service
 - TOSI Open Science Trainee Committee	2025 - Present
+  
 _Helping foster McGill Open Science Community_
 
 - HBHL Trainee Committee	2024 - Present
-_Helping foster McGill Neuroscience Community_	
+  
+_Helping foster McGill Neuroscience Community_
+
 
 - Journal Reviewer           2023
+  
 _Reviewed a paper for IEEE International Symposium on Biomedical Imaging (ISBI)_ 	
 
-- Scitek hackathon judge, Poatek, Sao Paulo, Brazil                                                                                                           2021
+- Scitek hackathon judge, Poatek, Sao Paulo, Brazil
+                                                                                                     2021
 _Served as a judge at a hackathon in data science and Covid-19, evaluated and provided feedback on the technical and creative aspects of participants' projects._
 
-- Volunteer, Itacoatiara School, Amazon, Brazil                  		                                                                       2016
+- Volunteer, Itacoatiara School, Amazon, Brazil
+                                                                                           2016
 _Volunteered at a school for children from riverside families in the Amazon Rainforest, providing educational support and assistance to students. Designed and delivered lesson, provided individualized support to students through tutoring, mentoring, and assessment._
 
 ## Talks and Press Coverage
@@ -98,21 +108,21 @@ _Volunteered at a school for children from riverside families in the Amazon Rain
 - Marcal, T. C. (2018). Neuroscience technologies at service of the human species agenda. Talk at Hacktown, Santa Rita do Sapucai
 
 ## Teaching Experience
-- Neuroimage Workshop InBrain, USP                                                                                                                                
-_Teaching Assistant - Graduate Students_
-_Organized a workshop on neuroimaging techniques, including fMRI and MRI, for a group of graduate students._
+- Neuroimage Workshop InBrain, USP
+                                                                                                                            
+_Teaching Assistant - Graduate Students - Organized a workshop on neuroimaging techniques, including fMRI and MRI, for a group of graduate students._
 
-- Neuroscience and Society Course, Poatek                                                                                                              
-_Teacher -  Non-academic community_
-_Designed and delivered engaging lessons addressing neuroscience research and technology's social and ethical implications._
+- Neuroscience and Society Course, Poatek
+                                                                                                           
+_Teacher -  Non-academic community - Designed and delivered engaging lessons addressing neuroscience research and technology's social and ethical implications._
 
-- Research Skills Workshop, International Institute of Neurosciences Edmond and Lily Safra                                          
-_Teaching Assistant - Graduate Students_
-_Encouraged participants to think critically and creatively about their research, and to consider the potential impact of their work on their field of study._
+- Research Skills Workshop, International Institute of Neurosciences Edmond and Lily Safra
+                                          
+_Teaching Assistant - Graduate Students - Encouraged participants to think critically and creatively about their research, and to consider the potential impact of their work on their field of study._
 
-- Friends of Tomorrow Course, Aerolito                                                                                                                              
-_Teaching Assistant -  Non-academic community_
-_Researched the intersection of neuroscience and futurism._
+- Friends of Tomorrow Course, Aerolito
+                                                                                                                               
+_Teaching Assistant -  Non-academic community - Researched the intersection of neuroscience and futurism._
 
 
 ## Conference Presentations and Publications
