@@ -1,22 +1,18 @@
 # Working for a better future
 Hi, I'm a Computational Neuroscientist and an AI Researcher with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration, and open science, I am passionate about building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at McGill University in the Integrated Program in Neuroscience at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA). I explore how the brain predicts and responds to real-world stimuli, combining predictive modeling, neuroimaging, and AI.
 [Fellow at Healthy Brains Healthy Lifes](https://www.mcgill.ca/hbhl/training/hbhl-trainee-committee) | [McGill Centre for Integrated Neuroscience](https://mcin.ca/about-mcin/mcin-team/ ) 
-## Projects
-###
-###
-###
-###
+
 ## Education
 - Ph.D. at the Integrated Program in Neuroscience, McGill University, Montreal      (Ongoing)		    
-Research at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA), Advisor: Dr. Alan Evans
+_Research at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA), Advisor: Dr. Alan Evans_
 
 - M.S. in Neurology and Neuroscience, University of Sao Paulo, Sao Paulo                                                       
-Thesis: Machine learning models for human cortical thinning: temporal, spatial and functional variables
+_Thesis: Machine learning models for human cortical thinning: temporal, spatial and functional variables_
 
 - B.S. in Neuroscience, UFABC, Sao Paulo                                                                                           	      
-Thesis: Machine learning models for time perception in rats in reinforcement learning tasks                                                                                                                                                                                                                                                                      
+_Thesis: Machine learning models for time perception in rats in reinforcement learning tasks_                                                                                                                                                                                                                                                                      
 - B.S. in Science and Technology, UFABC, Sao Paulo                                                                     		      
-Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of Their Intersection and Applications
+_Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of Their Intersection and Applications_
 
 ## Work Experience
 #### Data Science Consultant, Carrefour                                                                                                  	      	    2023 - 2024  
@@ -43,52 +39,52 @@ Thesis: Boolean Algebra and Mathematical Proof Methodology: An Exploration of Th
 
 ## Awards
 - NeuroSphere Award                                                                                                                                           2024 - Present
-NeuroScience Innovation Accelerator, McGill, Canada
+_NeuroScience Innovation Accelerator, McGill, Canada_
 
 - Research Fellowship                                                                                                                                           2024 - Present
-Healthy Brain Healthy Lives, McGill, Canada
+_Healthy Brain Healthy Lives, McGill, Canada_
 
 - McGill Grad Excellence Award                                                                                                                        2024 - Present
-Integrated Program in Neuroscience, McGill, Canada
+_Integrated Program in Neuroscience, McGill, Canada_
 
 - PhD Entrance Award                                                                                                                                                         2024 
-Integrated Program in Neuroscience, McGill, Canada
+_Integrated Program in Neuroscience, McGill, Canada_
 
 - Research Scholarship                                                                                                                                             2022 - 2023 
-National Council for Scientific and Technological Development, Brazil
-Awarded a scholarship for outstanding research in neuroscience and machine learning at the University of Sao Paulo Medical School. 
+_National Council for Scientific and Technological Development, Brazil_
+_Awarded a scholarship for outstanding research in neuroscience and machine learning at the University of Sao Paulo Medical School._ 
 
 - Scientific Excellence Team Award                                                                                                                                    2021
-Experian PLC, Dublin, Ireland
-Multinational competitive award for research and development in-company. Awarded for an agricultural product using satellite imagery, resulting in significant cost savings and increased efficiency.
+_Experian PLC, Dublin, Ireland_
+_Multinational competitive award for research and development in-company. Awarded for an agricultural product using satellite imagery, resulting in significant cost savings and increased efficiency._
 
 - Master Entrance Award                                                                                                                                                    2021 
-USP, Sao Paulo, Brazil
-Achieved 1st place in the Master’s Entry Examination at the University of São Paulo (USP), ranked among the top three most prestigious medical schools in Latin America
+_USP, Sao Paulo, Brazil_
+_Achieved 1st place in the Master’s Entry Examination at the University of São Paulo (USP), ranked among the top three most prestigious medical schools in Latin America_
 
 - Tutorial Education Program Scholarship                                                                                                            2015 - 2016
-National Fund for the Development of Education, Brazil
-Awarded a scholarship for a program focused on integrating research, teaching, and science dissemination. 
+_National Fund for the Development of Education, Brazil_
+_Awarded a scholarship for a program focused on integrating research, teaching, and science dissemination._
 
 - Researching From Day One Scholarship                                                                                                             2014 - 2015
-UFABC, Sao Paulo, Brazil
-Awarded a scholarship in recognition of a student's potential for significant scientific contributions. 
+_UFABC, Sao Paulo, Brazil_
+_Awarded a scholarship in recognition of a student's potential for significant scientific contributions._
 
 ## Leadership and Service
 - TOSI Open Science Trainee Committee	2025 - Present
-Helping foster McGill Open Science Community
+_Helping foster McGill Open Science Community_
 
 - HBHL Trainee Committee	2024 - Present
-Helping foster McGill Neuroscience Community 	
+_Helping foster McGill Neuroscience Community_	
 
-- Journal Reviewer 
-Reviewed a paper for IEEE International Symposium on Biomedical Imaging (ISBI) 	2023
+- Journal Reviewer           2023
+_Reviewed a paper for IEEE International Symposium on Biomedical Imaging (ISBI)_ 	
 
 - Scitek hackathon judge, Poatek, Sao Paulo, Brazil                                                                                                           2021
-Served as a judge at a hackathon in data science and Covid-19, evaluated and provided feedback on the technical and creative aspects of participants' projects.
+_Served as a judge at a hackathon in data science and Covid-19, evaluated and provided feedback on the technical and creative aspects of participants' projects._
 
 - Volunteer, Itacoatiara School, Amazon, Brazil                  		                                                                       2016
-Volunteered at a school for children from riverside families in the Amazon Rainforest, providing educational support and assistance to students. Designed and delivered lesson, provided individualized support to students through tutoring, mentoring, and assessment.
+_Volunteered at a school for children from riverside families in the Amazon Rainforest, providing educational support and assistance to students. Designed and delivered lesson, provided individualized support to students through tutoring, mentoring, and assessment._
 
 ## Talks and Press Coverage
 - Marcal, T. C. (2022). Tiktok to fine art - predictive brain and appreciation. [Talk at TEDx Blumenau](https://www.ted.com/talks/tamires_correa_de_tiktok_a_belas_artes_o_cerebro_preditivo_e_a_apreciacao)
@@ -102,20 +98,20 @@ Volunteered at a school for children from riverside families in the Amazon Rainf
 
 ## Teaching Experience
 - Neuroimage Workshop InBrain, USP                                                                                                                                
-Teaching Assistant - Graduate Students
-Organized a workshop on neuroimaging techniques, including fMRI and MRI, for a group of graduate students.
+_Teaching Assistant - Graduate Students_
+_Organized a workshop on neuroimaging techniques, including fMRI and MRI, for a group of graduate students._
 
 - Neuroscience and Society Course, Poatek                                                                                                              
-Teacher -  Non-academic community
-Designed and delivered engaging lessons addressing neuroscience research and technology's social and ethical implications.
+_Teacher -  Non-academic community_
+_Designed and delivered engaging lessons addressing neuroscience research and technology's social and ethical implications._
 
 - Research Skills Workshop, International Institute of Neurosciences Edmond and Lily Safra                                          
-Teaching Assistant - Graduate Students
-Encouraged participants to think critically and creatively about their research, and to consider the potential impact of their work on their field of study.
+_Teaching Assistant - Graduate Students_
+_Encouraged participants to think critically and creatively about their research, and to consider the potential impact of their work on their field of study._
 
 - Friends of Tomorrow Course, Aerolito                                                                                                                              
-Teaching Assistant -  Non-academic community
-Researched the intersection of neuroscience and futurism.
+_Teaching Assistant -  Non-academic community_
+_Researched the intersection of neuroscience and futurism._
 
 
 ## Conference Presentations and Publications
