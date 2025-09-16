@@ -1,4 +1,6 @@
-# tamiresmarcal.github.io
+# Computational Neuroscientists working for a better future
+I am a neuroscience researcher and data scientist with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration, and open science, I am passionate about building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at McGill University in the Integrated Program in Neuroscience at the Montreal Neurological Institute (MNI) and Montreal Institute for Learning Algorithms (MILA). I explore how the brain predicts and responds to real-world stimuli, combining predictive modeling, neuroimaging, and AI.
+Fellow at Healthy Brains Healthy Lifes | McGill Centre for Integrated Neuroscience 
 ## Projects
 ###
 ###
