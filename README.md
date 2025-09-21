@@ -95,7 +95,7 @@ _Volunteered at a school for children from riverside families in the Amazon Rain
 ## Talks and Press Coverage
 - Marcal, T. C. (2022). Tiktok to fine art - predictive brain and appreciation. [Talk at TEDx Blumenau](https://www.ted.com/talks/tamires_correa_de_tiktok_a_belas_artes_o_cerebro_preditivo_e_a_apreciacao)
 - Marcal, T. C. (2022). How we perceive the world, and what makes us like something. Talk at Hacktown, Santa Rita do Sapucai 
-“Get ready for a new world", [Neuroscience Interview at Chamber of Commerce Brazil-Canada](https://https://ccbc.org.br/en/publicacoes/artigos-ccbc-en/get-ready-for-a-new-world/) by Estela Cangerana. (2019, November 19).
+“Get ready for a new world", [Neuroscience Interview at Chamber of Commerce Brazil-Canada](https://ccbc.org.br/en/publicacoes/artigos-ccbc-en/get-ready-for-a-new-world/) by Estela Cangerana. (2019, November 19).
 - Marcal, T. C. (2019). Neuroscience and Technology. Talk at Chamber of Commerce Brazil-Canada
 - Marcal, T. C. (2019). How we perceive the world - A journey through the neuroscience of design. Talk at Hacktown, Santa Rita do Sapucai
 - Marcal, T. C. (2019). Neuroscience, Futurism and Emerging Technology. Talk at Inovabra
